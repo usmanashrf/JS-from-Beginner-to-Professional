@@ -1,0 +1,13 @@
+History:
+- JavaScript was invented by Brendan Eich in 1995.
+- JavaScript is an interpreted language.
+- only programing  language which support web/browser.
+- Netscape develope world forst web browser "Mosaic".
+- Netscape co-founder "Marc Lowell Andreessen" decided web 1.0 (only static pages)change into web 2.0 he hired a developer (Brendan Eich) and assigned a task to develop a language with in 10 days through which user will be able to interact with browser, or display animations on browser. 
+- Brendan Eich accept that challange and develop a language name "Mocha".
+- Netscape create a stable version of Netscape with name Netscape navigator and they change  "Mocha" name into livescript
+- They merge that langage to Java and then it's name change into JavaScript.
+- Netscape contact with ECMA international for develop standards rules for javascript.
+- Line by Line execution is done by interpreter and compiler return all errors in one go
+-The "engine" that understands JavaScript will be called the interpreter here.
+-The current standard is ECMAScript 6 (also referred to as ES6).  
